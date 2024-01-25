@@ -1,3 +1,4 @@
+![Header](./github-header-image.png)
 # 💫 About Me:
 🔭 I’m currently working on Meme Generator<br>🌱 I’m currently learning React<br>💬 Ask me about @ akash.sarkar1489@gmail.com
 
