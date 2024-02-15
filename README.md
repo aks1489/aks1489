@@ -20,3 +20,8 @@
 [![](https://visitcount.itsvg.in/api?id=aks1489&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+# Donate me
+
+<a href='https://ko-fi.com/T6T5UIQ1W' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
