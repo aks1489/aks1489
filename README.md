@@ -1,6 +1,6 @@
 ![Header](./Banner-img.png)
 # 🔎 About Me:
-🔭 I’m currently working on Note MDE<br><br>💬 Ask me about @ akash.sarkar1489@gmail.com
+🔭 I’m currently working on ShopZen<br><br>💬 Ask me about @ akash.sarkar1489@gmail.com
 
 
 ## 🌐 Socials:
